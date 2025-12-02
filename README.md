@@ -12,7 +12,11 @@
 The dashboard provides a 360-degree view of the e-commerce ecosystem, covering sales trends, customer demographics, logistics performance, payment behaviors, and product reviews.
 
 ---
+## 🎬 Demo
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
 
+---
 ## 🎨 Key Features & UI Sections
 
 The application is structured into **8 intuitive tabs**, each designed for specific analytical needs:
@@ -130,6 +134,6 @@ SOFTWARE.
 - 📱 Phone: +91-947XXXXX46
 
 ### Project Links
-- 🌐 Live Demo: [Streamlit App](https://walmart-black-friday-sales-analysis-3hrmdpouwmapvucuwcg8r7.streamlit.app/)
+- 🌐 Live Demo: [Streamlit App](https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/)
 - 📖 Documentation: [GitHub Wiki](https://github.com/Ratnesh-181998/Target-Brazil-E-Commerce-Analytics/wiki)
 - 🐛 Issue Tracker: [GitHub Issues](https://github.com/Ratnesh-181998/Target-Brazil-E-Commerce-Analytics/issues)
