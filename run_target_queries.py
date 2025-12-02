@@ -4,7 +4,7 @@ from pathlib import Path
 import duckdb
 
 
-BASE_DIR = Path(r"C:\Users\rattu\Downloads\Target SQL")
+BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "Target- SQL Business Case ALL 8 CSV"
 OUTPUT_DIR = BASE_DIR / "outputs"
 
